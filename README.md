@@ -1,0 +1,1 @@
+# 1_4_2_Algorithm-and-program-for-processing-one-dimensional-arrays-using-a-single-loop
